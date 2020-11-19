@@ -98,7 +98,7 @@ export default {
         },
         {
           id: 'SPEED',
-          type: 'speed',
+          type: 'SPEED',
           title: 'Servo speed',
           value: 20,
           adsorb: true,
