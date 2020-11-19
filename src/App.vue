@@ -18,6 +18,7 @@
 </template>
 
 <script>
+import 'https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.min.js';
 import VueSlider from 'vue-slider-component';
 import 'vue-slider-component/theme/antd.css';
 import axios from 'axios';
