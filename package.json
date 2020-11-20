@@ -11,6 +11,8 @@
   "dependencies": {
     "axios": "^0.21.0",
     "core-js": "^3.6.5",
+    "mqtt": "^4.2.5",
+    "paho-mqtt": "^1.1.0",
     "vue": "^2.6.11",
     "vue-slider-component": "^3.2.10"
   },
