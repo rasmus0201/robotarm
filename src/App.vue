@@ -35,7 +35,7 @@ export default {
     return {
       mqtt: {
         client: null,
-        host: '10.142.106.136',
+        host: window.document.location.host,
         port: 9002,
         path: '/ws',
         clean: true,
